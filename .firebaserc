@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "admin-dashboard-2740f-4e2b7",
+    "npm install -g firebase-tools": "admin-dashboard-2740f-4e2b7",
+    "staging": "admin-dashboard-2740f-4e2b7"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
